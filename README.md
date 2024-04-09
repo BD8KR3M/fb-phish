@@ -18,7 +18,7 @@ bash fbphish.sh
 
  ```
 <br><br>
-Author: Abm Mujahid
+Author: Abm Mujahid<br><br>
 Inspired by Zpisher <br><br>
 
 
