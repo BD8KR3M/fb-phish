@@ -1,4 +1,4 @@
-## Best Terget Facebook Phishing
+## The Best Facebook Phishing Tool Focused on Targeted Persons 
 ![gifmaker_me](https://github.com/BD8KR3M/fb-phish/assets/57522482/83961a33-d83a-4934-b43d-0a5ba2ce6b8c)
 
 ## Installation:(Linux)
