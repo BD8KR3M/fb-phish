@@ -3,11 +3,13 @@
 
 ## Installation:(Linux)
  ```
+apt install wget -y
 apt install git -y
 git clone https://github.com/BD8KR3M/fb-phish.git
  ```
 ## Installation:(Termux)
  ```
+pkg install wget -y
 pkg install git -y
 git clone https://github.com/BD8KR3M/fb-phish
  ```
