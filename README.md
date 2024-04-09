@@ -2,12 +2,29 @@
 ![gifmaker_me](https://github.com/BD8KR3M/fb-phish/assets/57522482/83961a33-d83a-4934-b43d-0a5ba2ce6b8c)
 
 ## Installation:(Linux)
+ ```
 apt install git -y
 git clone https://github.com/BD8KR3M/fb-phish.git
-
+ ```
 ## Installation:(Termux)
+ ```
 pkg install git -y
-git clone https://github.com/BD8KR3M/fb-phish.git
+git clone https://github.com/BD8KR3M/fb-phish
+ ```
+
+## Run:
+ ```
+bash fbphish.sh
+
+ ```
+<br><br>
+Author: Abm Mujahid
+Inspired by Zpisher <br><br>
+
+
+
+
+
 
 ![Screenshot 2024-04-09 081116](https://github.com/BD8KR3M/fb-phish/assets/57522482/f04a565c-90b7-42cd-95a4-5c7aca19bc30)
 
